@@ -1,3 +1,3 @@
 # matthew-git
 Git workflow assignment
-Matthew Sy
+Matt Sy
